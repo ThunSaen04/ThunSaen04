@@ -31,11 +31,11 @@
 ### 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,php,python,dart,ts&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,php,python,ts&theme=dark" />
 </p>
 
 <p align="center">
-  🟣 GoLang <b>(Primary)</b> • PHP • Python • SQL • Flutter (Dart - Basic) • Angular (Learning)
+  🟣 GoLang <b>(Primary)</b> • PHP • Python • SQL • Angular (Learning)
 </p>
 
 ---
